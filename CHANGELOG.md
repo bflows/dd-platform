@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/bflows/dd-platform/compare/v1.4.0...v1.4.1) (2026-04-24)
+
+
+### Bug Fixes
+
+* update last updated date in Privacy Policy to April 23, 2026 ([2003ec7](https://github.com/bflows/dd-platform/commit/2003ec77c68aa8f0e60ab1b456622f741ed56629))
+
 # [1.4.0](https://github.com/bflows/dd-platform/compare/v1.3.1...v1.4.0) (2026-04-24)
 
 
