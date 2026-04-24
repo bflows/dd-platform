@@ -25,6 +25,25 @@ export default function PrivacyPage() {
       </section>
       <section className="mt-24">
         <h2 className="text-white10 text-h3 font-bold sm:text-h2">
+          SMS / Text Messaging
+        </h2>
+        <p className="text-white25 text-p mt-8">
+          Duct Daddy collects mobile phone numbers only with your explicit consent
+          through our website contact form, service booking form, or direct customer
+          interaction. Mobile phone numbers and SMS opt-in data WILL NOT be shared
+          with third parties or affiliates for marketing or promotional purposes
+          under any circumstances.
+        </p>
+        <p className="text-white25 text-p mt-4">
+          Message frequency varies based on your service activity and may include
+          appointment confirmations, scheduling updates, service reminders, quote
+          follow-ups, and occasional promotional offers. Message and data rates
+          may apply. You may opt out at any time by replying STOP to any message.
+          Reply HELP for assistance or contact us at info@ductdaddykc.com.
+        </p>
+      </section>
+      <section className="mt-24">
+        <h2 className="text-white10 text-h3 font-bold sm:text-h2">
           How We Use Your Information
         </h2>
         <ul className="list-disc text-white25 text-p flex flex-col gap-y-2 mt-4 pl-5">
