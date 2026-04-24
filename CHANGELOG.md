@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/bflows/dd-platform/compare/v1.3.1...v1.4.0) (2026-04-24)
+
+
+### Features
+
+* add SMS/Text Messaging section to Privacy Policy ([b3d29af](https://github.com/bflows/dd-platform/commit/b3d29af95e5472acf77ed6f614c586b63d75e431))
+
 ## [1.3.1](https://github.com/flowz0/dd-platform/compare/v1.3.0...v1.3.1) (2025-11-04)
 
 
