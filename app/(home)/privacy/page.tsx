@@ -9,7 +9,7 @@ export default function PrivacyPage() {
           Duct Daddy Duct Cleaning (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;), operated by Duct Daddy LLC, respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard data when you visit ductdaddykc.com (the &quot;Website&quot;) or interact with our services. By using the Website, you agree to these practices. Contact us at info@ductdaddykc.com or 816-708-2608 for questions.
         </p>
         <p className="text-white25 text-small mt-6">
-          Last Updated: July 19, 2025
+          Last Updated: April 23, 2026
         </p>
       </section>
 
